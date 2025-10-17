@@ -8,7 +8,6 @@ import singlePlayer
 from blackJackPlayer import player
 
 
-adjust
 
 def betting_proccess(raise_bet: bool, call_bet: bool, player_obj, bet_to_play, pot):
     if call_bet:
